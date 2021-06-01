@@ -1,7 +1,10 @@
-# basic-calculator-prototype-3
-welcome to my project. im trying to create a simple calculator. i would appreciate if you would help. you are going to need a piece of software that can run ruby files the use the program.
-i will soon release other ways to access the program,but this is the current way to do it.
+# basic-calculator
+welcome to my project. im trying to create a simple calculator. i would appreciate if you would help.(by the way sorry for some bad english)
+you can find a repository for this program on github. it's name is: basic-calculator-repository. from there if you have any ideas to help with the program, feel free to make a pull request or open a issue.
 ## what have i created
-NOTE:This was written at the time prototype 5 was the latest version.
-Currently, i have created possibilities for 4 number addition, 4 number multiplication and 2 number division. i will make the code more complex as time goes on,but currently(with prototype 5)
-the code is really simple.
+currently i have made the program make calculations with addition, subtraction, multiplication and division.
+### primitiveness
+this program as really primitive in its current form.
+i want to make it more complex, but currently it willstay as is.
+## Thanks
+Thank you for reading this and i hope you will find the program useful.
