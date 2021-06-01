@@ -1,4 +1,5 @@
 puts "basic calculator v.0.6 alpha. NOTE: all math operations work. but division currently only supports two number division at a time."
+puts "Instructions can be found in the instructions.md file."
 puts "please enter your numbers."
 puts "a="
 a = gets.chomp.to_i
