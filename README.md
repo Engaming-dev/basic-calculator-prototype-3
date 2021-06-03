@@ -5,6 +5,6 @@ you can find a repository for this program on github. it's name is: basic-calcul
 currently i have made the program make calculations with addition, subtraction, multiplication and division.
 ### primitiveness
 this program as really primitive in its current form.
-i want to make it more complex, but currently it willstay as is.
+i want to make it more complex. Currently i have plans for a major rehaul, so get ready for that.
 ## Thanks
 Thank you for reading this and i hope you will find the program useful.

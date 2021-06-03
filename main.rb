@@ -1,4 +1,4 @@
-puts "basic calculator v.0.6 alpha. NOTE: all math operations work. but division currently only supports two number division at a time."
+puts "basic calculator v.0.8 beta. NOTE: Program is still in development and excpect a major rehaul."
 puts "Instructions can be found in the instructions.md file."
 puts "please enter your numbers."
 puts "a="
@@ -17,8 +17,10 @@ finalmultiply = a * b * c * d
 puts "FINAL MULTIPLIED RESULT: #{finalmultiply}" 
 finalmultiplyab = a * b
 puts "FINAL MULTIPLIED RESULT (ONLY A AND B MULTIPLIED): #{finalmultiplyab}"
+finaldivide = a / b / c / d.to_f
 finaldivide_ab = a / b.to_f
 finaldivide_cd = c / d.to_f
+puts "FINAL DIVIDED RESULT: #{finaldivide}"
 puts "FINAL DIVIDED RESULT(ONLY A AND B DIVIDED): #{finaldivide_ab}"
 puts "FINAL DIVIDED RESULT (ONLY D AND C DIVIDED): #{finaldivide_cd}"
 final_subtract = a - b - c - d
